@@ -1,11 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Pais_Api_Proyect.Services;
 using System.Collections.Generic;
+using System.Web.Http.Cors;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Pais_Api_Proyect.Controllers
 {
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     [Route("api/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase

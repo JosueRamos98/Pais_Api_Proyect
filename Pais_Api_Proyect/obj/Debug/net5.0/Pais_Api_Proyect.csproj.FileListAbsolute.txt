@@ -134,3 +134,8 @@ C:\Users\Cope\source\repos\Pais_Api_Proyect\Pais_Api_Proyect\obj\Debug\net5.0\Pa
 C:\Users\Cope\source\repos\Pais_Api_Proyect\Pais_Api_Proyect\obj\Debug\net5.0\ref\Pais_Api_Proyect.dll
 C:\Users\Cope\source\repos\Pais_Api_Proyect\Pais_Api_Proyect\bin\Debug\net5.0\all.json
 C:\Users\Cope\source\repos\Pais_Api_Proyect\Pais_Api_Proyect\bin\Debug\net5.0\RestSharp.dll
+C:\Users\Cope\source\repos\Pais_Api_Proyect\Pais_Api_Proyect\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\Cope\source\repos\Pais_Api_Proyect\Pais_Api_Proyect\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Cope\source\repos\Pais_Api_Proyect\Pais_Api_Proyect\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\Cope\source\repos\Pais_Api_Proyect\Pais_Api_Proyect\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\Cope\source\repos\Pais_Api_Proyect\Pais_Api_Proyect\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
